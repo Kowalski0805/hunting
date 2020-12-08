@@ -405,7 +405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89dfce70c4a8e5d4c8207767abe3dfd5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  player: {fileID: 1890329422}
   cameraHeight: 10
 --- !u!20 &519420031
 Camera:
@@ -434,7 +434,7 @@ Camera:
   far clip plane: 1001
   field of view: 60
   orthographic: 1
-  orthographic size: 10.01
+  orthographic size: 30.42
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -521,3 +521,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f0d334bd14a172418cd391c7b11174b, type: 3}
+--- !u!1 &1890329422 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5923505292640398697, guid: 2f0d334bd14a172418cd391c7b11174b, type: 3}
+  m_PrefabInstance: {fileID: 527923656}
+  m_PrefabAsset: {fileID: 0}
